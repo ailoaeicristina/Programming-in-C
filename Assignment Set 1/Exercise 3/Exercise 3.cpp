@@ -6,9 +6,7 @@ int main()
 {
     int x, y;
 
-    cout << "Please insert two integer numbers" << endl;
-    cin >> x;
-    cin >> y;
+    cin >> x >> y;
 
     if(x == y)
         cout << x << " is equal to " << y << endl;

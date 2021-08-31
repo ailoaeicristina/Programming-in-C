@@ -6,12 +6,11 @@ int main()
 {
     double x, y, z;
 
-    cout << "Please insert three numbers" << endl;
     cin >> x >> y >> z;
 
-    int result = x + y - z;
+    double result = x + y - z;
 
-    cout << x << " + " << y << " - " << z << " = " << result << endl;
+    cout << result << endl;
 
     return 0;
 }
