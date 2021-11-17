@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "exception": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
+    }
+}
